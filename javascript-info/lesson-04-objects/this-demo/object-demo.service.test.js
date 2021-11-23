@@ -1,4 +1,5 @@
 const user = require('./object-demo.service')
+// import { user } from './object-demo.service'
 
 describe('object demo', () => {
   describe('has \'this\' object scope', () => {
